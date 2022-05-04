@@ -1,6 +1,21 @@
+# Projeto Github user
+> Este projeto usa a API do Github
+
+Este projeto consome a API do Github de forma que quando você pesquisa pelo nome de um usuário do Github ele retorna na página inicial a foto e informações básicas desse usuário
+
+Basta ter o Node instalado no computador, clonar este repositório e então navegar pelo terminal até a pasta do projeto em seu computador e digitar o seguinte comando:
+```sh
+npm run start
+```
+
+
+![](img.jpeg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
